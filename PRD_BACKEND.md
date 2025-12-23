@@ -133,6 +133,8 @@ Comprar tickets. Requiere autenticación.
 }
 ```
 
+**Response:** 201 + ticket data con eventId
+
 Validaciones:
 - Cantidad entre 1 y 10
 - Evento existe
