@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "id": "event-1",
+      "name": "Campanazo Navideño: Pan de Dulce",
+      "description": "Celebra la Navidad con Pan de Dulce en su tradicional Campanazo Navideño. Una noche llena de música, alegría y el espíritu navideño ecuatoriano.",
+      "date": "2024-12-25T19:00:00Z",
+      "location": "Centro de Convenciones, Guayaquil",
+      "price": 1500,
+      "currency": "USD",
+      "totalTickets": 300,
+      "availableTickets": 291,
+      "organizerName": "Pan de Dulce Oficial",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819"
+    },
+    {
+      "id": "event-2",
+      "name": "La Cotorrisa en Quito",
+      "description": "El podcast de comedia más popular de México llega a Ecuador. Ricardo Pérez y Slobotzky presentan su show en vivo lleno de risas y anécdotas.",
+      "date": "2025-01-18T20:00:00Z",
+      "location": "Teatro Nacional Sucre, Quito",
+      "price": 4500,
+      "currency": "USD",
+      "totalTickets": 800,
+      "availableTickets": 800,
+      "organizerName": "Ticket Show Ecuador",
+      "imageUrl": "https://images.unsplash.com/photo-1527224857830-43a7acc85260"
+    },
+    {
+      "id": "event-3",
+      "name": "Nicola Cruz con Silvia Ponce",
+      "description": "El reconocido productor ecuatoriano Nicola Cruz presenta su proyecto ZaMa en colaboración con la talentosa cantante Silvia Ponce. Una experiencia única de música electrónica andina.",
+      "date": "2024-12-26T21:00:00Z",
+      "location": "Casa de la Música, Quito",
+      "price": 3500,
+      "currency": "USD",
+      "totalTickets": 500,
+      "availableTickets": 500,
+      "organizerName": "ZaMa Collective",
+      "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3"
+    }
+  ]
+}

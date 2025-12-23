@@ -1,0 +1,85 @@
+{
+  "tickets": [
+    {
+      "id": "7f81050e-067b-4516-bb2c-e4c4c39cb912",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:14:36.968Z"
+    },
+    {
+      "id": "856150fa-3ab0-4390-8553-be2210c9e3e3",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:21:46.466Z"
+    },
+    {
+      "id": "9dab3d5a-edba-4336-8aef-892e49489eb3",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:27:47.360Z"
+    },
+    {
+      "id": "7d6925ea-8b64-4610-8eae-045806360d82",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:28:30.849Z"
+    },
+    {
+      "id": "67c9a44f-625e-4260-b847-abed50d94655",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:29:25.788Z"
+    },
+    {
+      "id": "879ab68b-7e5c-4a6d-8105-e5f2306b3c00",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:29:36.787Z"
+    },
+    {
+      "id": "e8c20b68-746e-4869-b24f-85a4fde42a5d",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:29:44.316Z"
+    },
+    {
+      "id": "97c9403d-2029-4222-b2af-dd799cd17269",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:31:51.196Z"
+    },
+    {
+      "id": "f509c617-a19b-4807-ac38-bcabd423da32",
+      "eventId": "event-1",
+      "userId": "user-1",
+      "quantity": 1,
+      "totalPrice": 1500,
+      "status": "confirmed",
+      "purchaseDate": "2025-12-23T22:35:00.143Z"
+    }
+  ]
+}

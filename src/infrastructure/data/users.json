@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "user-1",
+      "email": "user@example.com",
+      "password": "$2b$10$l7UnbMxrcnbymfXN66QVf.VZl7o4a4XZSz48eYcDfxmDUPsphXjYu",
+      "name": "Juan Benavides",
+      "createdAt": "2024-01-05T00:00:00Z"
+    }
+  ]
+}
